@@ -1,0 +1,21 @@
+.tooltip{
+width: 400px;
+}
+@media (hover: hover){
+	.tooltip:hover{
+	background: black;
+	
+		
+	}
+}
+
+.tooltip-content{
+	color: grey;
+	
+}
+.icon{
+	position: absolute;
+	top: 0px; right: 100px;
+
+}
+
